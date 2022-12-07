@@ -102,9 +102,6 @@ def main():
 
     print(solution(crawler.rootDirectory, neededSpace, DEVICE_SIZE))
 
-
-
-
 if __name__ == "__main__":
     main()
     
